@@ -6,7 +6,7 @@ module CrystalCoin
     getter chain
     getter uncommitted_transactions
 
-    def def initialize
+    def initialize
       @chain = [ Block.first ]
       @uncommitted_transactions = [] of Block::Transaction
     end
