@@ -1,10 +1,12 @@
 # crystal_coin
 
-TODO: Write a description here
+Simple cryptocurrency application to explore blockchain's key concept. Based on this blog post.
 
 ## Installation
 
-TODO: Write installation instructions here
+```
+$ shards install
+```
 
 ## Usage
 
