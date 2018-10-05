@@ -1,6 +1,6 @@
 # crystal_coin
 
-Simple cryptocurrency application to explore blockchain's key concept. Based on this blog post.
+Simple cryptocurrency application made in Crystal to explore blockchain's key concept. Based on [this blog post](https://www.toptal.com/blockchain/crystal-programming-language-tutorial).
 
 ## Installation
 
@@ -26,4 +26,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) Alberto Rocha - creator, maintainer
+- [betogrun](https://github.com/betogrun) Alberto Rocha - creator, maintainer
